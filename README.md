@@ -279,4 +279,4 @@ This project is built for **educational purposes**. Feel free to use it as a ref
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Het-Buch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Het-Buch)
+[![GitHub](https://img.shields.io/badge/GitHub-Het--Buch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Het-Buch)
