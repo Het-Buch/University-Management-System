@@ -220,12 +220,6 @@ Start MySQL in XAMPP.
 
 ---
 
-## 🖼 Screenshots
-All UI images:  
-📁 https://github.com/Het1014/University-Management-System/tree/main/Images
-
----
-
 ## 🎯 Output Preview (Swing Frames)
 All application screens:  
 📁 https://github.com/Het1014/University-Management-System/tree/main/Output%20Preview
