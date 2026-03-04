@@ -167,7 +167,7 @@ Downloadable Exe/UniversityManagementSystem_Setup.exe
 Make sure the following files are in the **same folder** as the EXE:
 
 ```
-📁 YourFolder/
+📁 UniversityManagementSystem/
 ├── UniversityManagementSystem.exe
 ├── college.db
 └── lib/
