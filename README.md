@@ -12,7 +12,7 @@
 
 <br/>
 
-[📦 Download Installer](#-running-the-application) · [🚀 Quick Start](#-option-1--installer-recommended) · [💻 Dev Setup](#-development-setup) · [📸 Screenshots](#-screenshots)
+📦[Download Installer](#-running-the-application) · 🚀[Quick Start](#-option-1--installer-recommended) · 💻[Dev Setup](#-development-setup) · 📸[Screenshots](#-screenshots)
 
 </div>
 
